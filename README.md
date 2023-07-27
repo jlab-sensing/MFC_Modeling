@@ -1,2 +1,2 @@
 # MFC_Modeling
-#Loads MFC data into an Random Forest using Jupyter Notebook
+#Loads MFC data into a Random Forest using Google Colab
