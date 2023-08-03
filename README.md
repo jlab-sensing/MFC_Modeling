@@ -7,6 +7,6 @@ The main code for the project is located in dataloader.ipynb. It be opened as a 
 
 If the notebook is not rendering properly in Github, the code can also be accessed through Binder:
 
-https://mybinder.org/v2/gh/jlab-sensing/MFC_Modeling/HEAD?labpath=dataloader.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jlab-sensing/MFC_Modeling/HEAD?labpath=dataloader.ipynb)
 
 The code can then be executed by running each cell in order from top to bottom.
