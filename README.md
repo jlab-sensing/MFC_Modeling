@@ -5,4 +5,8 @@ The main code for the project is located in dataloader.ipynb. It be opened as a 
 
 <img width="975" alt="Screen Shot 2023-08-01 at 4 54 37 PM" src="https://github.com/jlab-sensing/MFC_Modeling/assets/53840553/20af7c8d-6d2a-4b0c-9d00-d05451cda3f8">
 
+If the notebook is not rendering properly in Github, the code can also be accessed through Binder:
+
+https://mybinder.org/v2/gh/jlab-sensing/MFC_Modeling/HEAD?labpath=dataloader.ipynb
+
 The code can then be executed by running each cell in order from top to bottom.
