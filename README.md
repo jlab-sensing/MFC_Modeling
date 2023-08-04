@@ -9,3 +9,13 @@ The code can then be executed by running each cell in order from top to bottom.
 
 The code can also be accessed by navigating to dataloader.ipynb in the repository and clicking "Open in Colab", but the notebook may not always render properly in Github.
 
+Running Code Locally:
+
+To run this project on your local computer, download and execute dataloader.py. The packages required for the code can be found in requirements.txt, and the neccesrary data can be found in the Jlab directory, in stanfordMFCDataset.zip, by following this link:
+
+https://drive.google.com/drive/folders/1cCIrRNQCjUkE9vV7oOfoW-dt9SuHpU9-
+
+
+
+
+
