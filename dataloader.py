@@ -43,7 +43,7 @@ y["timestamp"] = y["timestamp"].round(decimals = 1)
 #Sort data by timestamp, convert to datetime
 X = X.sort_values(['timestamp'])
 y = y.sort_values(['timestamp'])
-print("Sorting py timestamp")
+print("Sorting by timestamp")
 X['timestamp'] = pd.to_datetime(X['timestamp'], unit='s')
 y['timestamp'] = pd.to_datetime(y['timestamp'], unit='s')
 
