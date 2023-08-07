@@ -5,7 +5,6 @@ import glob
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 import seaborn as sns
-from hepml.core import plot_regression_tree
 sns.set(color_codes=True)
 sns.set_palette(sns.color_palette("muted"))
 from sklearn.model_selection import train_test_split
