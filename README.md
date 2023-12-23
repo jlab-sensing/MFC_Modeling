@@ -15,7 +15,7 @@ To run this project on your local computer, download and execute dataloader.py. 
 
 https://drive.google.com/drive/folders/1cCIrRNQCjUkE9vV7oOfoW-dt9SuHpU9-
 
-Note that certain parts of the code can take 2-3 minutes to excecute, namely loading the power data and training the model. Sorting the sata by timestamp and merging the data can take up to 30 seconds.
+Note that certain parts of the code can take 2-3 minutes to excecute, namely loading the power data and training the model. Sorting the data by timestamp and merging the data can take up to 30 seconds.
 
 
 
