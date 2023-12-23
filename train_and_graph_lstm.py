@@ -4,7 +4,6 @@ epochs = 25 #set number of training epochs
 tstep = '60min' #set size of prediction timestep, ie. 3min for 3 minutes, 60min for 1 hour
 sec = 3600 #set the number of seconds in the desired timestep, ie. 180 for 3 minutes, 3600 for 1 hour
 
-%matplotlib inline
 import datetime
 import pandas as pd
 import numpy as np
