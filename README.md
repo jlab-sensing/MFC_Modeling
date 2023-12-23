@@ -11,7 +11,7 @@ The code can also be accessed by navigating to dataloader.ipynb in the repositor
 
 Running Code Locally:
 
-To run this project on your local computer, download and execute dataloader.py. The packages required for the code can be found in requirements.txt, and the neccesrary data can be found in the Jlab directory, in stanfordMFCDataset.zip, by following this link:
+To run this project on your local computer, download and execute dataloader.py. The packages required for the code can be found in requirements.txt, and the neccessary data can be found in the Jlab directory, in stanfordMFCDataset.zip, by following this link:
 
 https://drive.google.com/drive/folders/1cCIrRNQCjUkE9vV7oOfoW-dt9SuHpU9-
 
