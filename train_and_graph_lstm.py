@@ -174,11 +174,6 @@ model.fit(X_train, y_train, epochs=epochs, validation_data=(X_test, y_test), bat
 train_pred = model.predict(X_train, batch_size=batch)
 test_pred = model.predict(X_test, batch_size=batch)
 
-#Load previously trained model
-model = load_model("drive/MyDrive/jLab Shared Docs/MFC Modeling/lstm7_3min_weighted", custom_objects={ 'custom_loss': custom_loss})
-train_pred = model.predict(X_train, batch_size=batch)
-test_pred = model.predict(X_test, batch_size=batch)
-
 #Simulate application runtime, evaluate model performance
 import math
 from matplotlib import pyplot as plt
