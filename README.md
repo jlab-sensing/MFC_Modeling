@@ -1,5 +1,7 @@
 # MFC_Modeling
-This is the Github repository for the code used in the paper Deep Learning for Predicting Microbial Fuel Cell Energy Output. All relevant datasets and models are stored in Hugging Face at https://huggingface.co/datasets/adunlop621/Soil_MFC/tree/main
+This is the Github repository for the code used in the paper Deep Learning for Predicting Microbial Fuel Cell Energy Output. 
+
+All relevant datasets and models are stored in Hugging Face at https://huggingface.co/datasets/adunlop621/Soil_MFC/tree/main
 
 In order for the code to run properly, it is neccesary to download the datasets from Hugging Face and place them in the same directory as the code with the following file names. Dataset 1, as defined in the paper, is stored in stanfordMFCDataset.zip, which expands into the directory rocket4. Dataset 2 is stored in the ucscMFCDataset directory. In order to load the pretrained models used in the paper, it is neccesary to download the trained_models directory.
 
