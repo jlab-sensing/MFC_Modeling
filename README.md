@@ -1,5 +1,6 @@
 # MFC_Modeling
-This is the Github repository for the code used in the paper Deep Learning for Predicting Microbial Fuel Cell Energy Output. In this paper, we explore ways to improve the viability of intermittenly powered computing systems, with a focus on Soil Microbial Fuel Cells (SMFCs). SMFCs are an energy source which generate power from natural microbial interactions within soil, and they are a promising energy source for many types of environmental sensing tasks, such as smart farming and wildfire prevention.
+This is the Github repository for the code used in the paper Deep Learning for Predicting Microbial Fuel Cell Energy Output. In this paper, we explore ways to improve the viability of intermittenly powered computing systems, with a focus on Soil Microbial Fuel Cells (SMFCs). SMFCs are an energy source which generate power from natural microbial interactions within soil, and they are a promising energy source for many types of environmental sensing tasks, such as smart farming and wildfire prevention. Very little work currently exists that attempts to model the relationship between soil conitions and SMFC energy generation, and this work is the first to use machine learning to do so.
+
 
 All relevant datasets and models are stored in Hugging Face at https://huggingface.co/datasets/adunlop621/Soil_MFC/tree/main
 
